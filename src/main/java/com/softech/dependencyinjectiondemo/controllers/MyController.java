@@ -1,4 +1,4 @@
-package com.softech.dependencyinjectiondemo;
+package com.softech.dependencyinjectiondemo.controllers;
 
 import org.springframework.stereotype.Controller;
 
